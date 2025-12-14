@@ -1,5 +1,7 @@
 # Basic react skelton project Template
   * note on css: this project is intended for using modular js for scoping.
+  * all package files including package.json/ vite.config/ setup.js is configured
+    all you need to do is clone then run :npm install to install required dependancies
 ### included packages:-
 - react basic project with vite: npm  create vite@latest <peoject-name> -- --template react
 - component folder
